@@ -10,9 +10,9 @@ relink()
 
 finish()
 {
-	#umount /v
+	umount /v
 	umount /s
-	#rmdir /v
+	rmdir /v
 	rmdir /s
 	setprop crypto.ready 1
 	exit 0
