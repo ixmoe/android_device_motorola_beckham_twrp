@@ -19,7 +19,7 @@ Front Camera | 8 MP (f/2.2)
 ![Device Picture](https://i-cdn.phonearena.com//images/phones/72220-xlarge/Motorola-Moto-Z3-Play-8.jpg)
 
 ### Kernel Source
-Check here: https://github.com/ixmoe/android_kernel_motorola_sdm636
+Check here: https://github.com/ixmoe/android_kernel_motorola_sdm660
 
 ### How to compile
 
