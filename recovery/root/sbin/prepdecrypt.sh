@@ -82,6 +82,7 @@ cp /v/lib64/libtime_genoff.so /vendor/lib64/
 cp /v/lib64/libkeymasterdeviceutils.so /vendor/lib64/
 cp /v/lib64/libkeymasterprovision.so /vendor/lib64/
 cp /v/lib64/libkeymasterutils.so /vendor/lib64/
+cp /v/lib64/libqtikeymaster4.so /vendor/lib64/
 cp /v/lib64/hw/bootctrl.sdm660.so /vendor/lib64/hw/
 cp /v/lib64/hw/gatekeeper.sdm660.so /vendor/lib64/hw/
 cp /v/lib64/hw/keystore.sdm660.so /vendor/lib64/hw/
